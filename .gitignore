@@ -33,3 +33,4 @@ gradio/launches.json
 gradio/frontend/static
 workspace.code-workspace
 *.db
+frontend/package-lock.json
